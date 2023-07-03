@@ -1,0 +1,19 @@
+body{
+    background-color: pink;
+}
+.reg{
+ margin-top: 200px;
+ margin-left: 400px;
+}
+input,button{
+    margin: 5px;
+}
+input{
+    height: 30px;
+    width: 400px;
+}
+button{
+    margin-left: 60px;
+    height: 30px;
+    width: 200px;
+}
